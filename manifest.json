@@ -1,6 +1,6 @@
 {
-    "name": "flutter_application_1",
-    "short_name": "flutter_application_1",
+    "name": "the_basics",
+    "short_name": "the_basics",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
